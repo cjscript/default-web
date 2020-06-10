@@ -24,4 +24,6 @@ Commit #12 during squash activity
 
 Commit #13 started rebase dev 2 commit 1
 
-Commit #13 from dev2 bug fix
+Commit #14 from dev2 bug fix
+
+Commit #15 dev 1 working on bug fix
