@@ -28,6 +28,8 @@ Commit #14 from dev2 bug fix
 
 Commit #15 dev 1 working on bug fix
 
+No more commits
+
 Commit #18 - Squash local commit 1
 
 Commit #19 - Squash local commit 2
